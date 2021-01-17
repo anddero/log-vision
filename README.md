@@ -1,2 +1,2 @@
 # Log-Vision
-Lightweight, user-friendly, powerful and flexible log analysis and visualization tool.
+Open-source, lightweight, user-friendly, powerful and flexible log analysis and visualization tool.

@@ -1,0 +1,6 @@
+Make very simple MVP initially
+
+Define general log format that the logs must conform to
+* can collect the timestamp and some other information
+Then define more specific log format based on timestamp
+* log format can change over time
